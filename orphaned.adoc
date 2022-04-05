@@ -1,0 +1,20 @@
+Repositories previously owned by Specification Projects and in need of a new home.
+
+[%header,cols="1,1"]
+|===
+| Repositories | Potential Homes
+a| - https://github.com/eclipse-ee4j/concurrency-ri
+a| - New project
+- Eclipse GlassFish
+a| - https://github.com/eclipse-ee4j/genericmessagingra
+a| - Eclipse GlassFish
+ - Eclipse OpenMQ
+a| * https://github.com/eclipse-ee4j/jakartaee-tutorial
+ * https://github.com/eclipse-ee4j/jakartaee-tutorial-examples
+ * https://github.com/eclipse-ee4j/jakartaee-firstcup
+ * https://github.com/eclipse-ee4j/jakartaee-firstcup-examples
+a| * Examples for Jakarta EE
+a|  * https://github.com/jakartaee/security-examples
+a| * Soteria
+ * Examples for Jakarta EE
+|===
