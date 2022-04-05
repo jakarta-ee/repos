@@ -22,7 +22,6 @@ Jakarta Bean Validation : bean-validation
 
 Jakarta Concurrency : concurrency
   - https://github.com/jakartaee/concurrency
-  - https://github.com/eclipse-ee4j/concurrency-ri
 
 Jakarta Config : config
   - https://github.com/eclipse-ee4j/config
@@ -41,10 +40,6 @@ Jakarta Contexts and Dependency Injection : cdi
 
 Jakarta EE Platform : platform
   - https://github.com/eclipse-ee4j/jakartaee-platform
-  - https://github.com/eclipse-ee4j/jakartaee-tutorial
-  - https://github.com/eclipse-ee4j/jakartaee-tutorial-examples
-  - https://github.com/eclipse-ee4j/jakartaee-firstcup
-  - https://github.com/eclipse-ee4j/jakartaee-firstcup-examples
   - https://github.com/eclipse-ee4j/jakartaee-schemas
   - https://github.com/eclipse-ee4j/jakartaee-api
   - https://github.com/eclipse-ee4j/jakartaee-release
@@ -81,7 +76,6 @@ Jakarta Mail : mail
 
 Jakarta Messaging : messaging
   - https://github.com/jakartaee/messaging
-  - https://github.com/eclipse-ee4j/genericmessagingra
   - https://github.com/jakartaee/messaging-proposals
 
 Jakarta MVC : mvc
@@ -99,7 +93,6 @@ Jakarta RESTful Web Services : restful-ws
 Jakarta RPC : rpc
 
 Jakarta Security : security
-  - https://github.com/jakartaee/security-examples
   - https://github.com/jakartaee/security
 
 Jakarta Server Pages : pages
