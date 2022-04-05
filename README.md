@@ -1,9 +1,9 @@
 Jakarta Activation : activation
-  - https://github.com/jakartaee/jaf
-  - https://github.com/jakartaee/jaf-tck
+  - https://github.com/jakartaee/activation
+  - https://github.com/jakartaee/activation-tck
 
 Jakarta Annotations : annotations
-  - https://github.com/jakartaee/common-annotations-api
+  - https://github.com/jakartaee/annotations-api
 
 Jakarta Authentication : authentication
   - https://github.com/jakartaee/authentication
@@ -27,7 +27,7 @@ Jakarta Config : config
   - https://github.com/jakartaee/config
 
 Jakarta Connectors : connectors
-  - https://github.com/jakartaee/jca-api
+  - https://github.com/jakartaee/connectors-api
 
 Jakarta Contexts and Dependency Injection : cdi
   - https://github.com/jakartaee/cdi
@@ -85,7 +85,7 @@ Jakarta MVC : mvc
 Jakarta NoSQL : nosql
 
 Jakarta Persistence : persistence
-  - https://github.com/jakartaee/jpa-api
+  - https://github.com/jakartaee/persistence-api
 
 Jakarta RESTful Web Services : restful-ws
   - https://github.com/jakartaee/rest
@@ -96,7 +96,7 @@ Jakarta Security : security
   - https://github.com/jakartaee/security
 
 Jakarta Server Pages : pages
-  - https://github.com/jakartaee/jsp-api
+  - https://github.com/jakartaee/pages-api
 
 Jakarta Servlet : servlet
   - https://github.com/jakartaee/servlet
@@ -108,7 +108,7 @@ Jakarta Stable APIs : null
   - https://github.com/jakartaee/management-api
 
 Jakarta Standard Tag Library : tags
-  - https://github.com/jakartaee/jstl-api
+  - https://github.com/jakartaee/tags-api
 
 Jakarta Transactions : transactions
   - https://github.com/jakartaee/transactions
@@ -118,10 +118,10 @@ Jakarta WebSocket : websocket
   - https://github.com/jakartaee/websocket
 
 Jakarta XML Binding : xml-binding
-  - https://github.com/jakartaee/jaxb-api
-  - https://github.com/jakartaee/jaxb-tck
+  - https://github.com/jakartaee/xml-binding-api
+  - https://github.com/jakartaee/xml-binding-tck
 
 Jakarta XML Web Services : xml-web-services
   - https://github.com/jakartaee/jws-api
-  - https://github.com/jakartaee/jax-ws-api
+  - https://github.com/jakartaee/xml-web-services-api
   - https://github.com/jakartaee/saaj-api
